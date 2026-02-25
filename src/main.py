@@ -6,6 +6,7 @@ python main.py
 ```
 """
 
+import utils.session
 import json
 from agent import triage_ticket
 
