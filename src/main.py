@@ -5,6 +5,7 @@ Usage:
     python main.py --tickets tickets.json --output results.json
 """
 
+import utils.session
 import argparse
 import json
 import logging
